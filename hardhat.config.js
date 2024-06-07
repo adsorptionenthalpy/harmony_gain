@@ -23,7 +23,6 @@ module.exports = {
     local: {
       url: 'http://127.0.0.1:9514',
       accounts: [process.env.PRIVATE_KEY_WALLET],
-      gas: 111111111111111,
     },
     hardhat: {
     },
